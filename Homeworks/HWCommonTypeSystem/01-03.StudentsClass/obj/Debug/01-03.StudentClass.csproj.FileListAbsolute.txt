@@ -1,0 +1,6 @@
+c:\users\pavel\documents\visual studio 2015\Projects\HWCommonTypeSystem\01-03.StudentsClass\bin\Debug\01-03.StudentsClass.exe.config
+c:\users\pavel\documents\visual studio 2015\Projects\HWCommonTypeSystem\01-03.StudentsClass\bin\Debug\01-03.StudentsClass.exe
+c:\users\pavel\documents\visual studio 2015\Projects\HWCommonTypeSystem\01-03.StudentsClass\bin\Debug\01-03.StudentsClass.pdb
+c:\users\pavel\documents\visual studio 2015\Projects\HWCommonTypeSystem\01-03.StudentsClass\obj\Debug\01-03.StudentClass.csprojResolveAssemblyReference.cache
+c:\users\pavel\documents\visual studio 2015\Projects\HWCommonTypeSystem\01-03.StudentsClass\obj\Debug\01-03.StudentsClass.exe
+c:\users\pavel\documents\visual studio 2015\Projects\HWCommonTypeSystem\01-03.StudentsClass\obj\Debug\01-03.StudentsClass.pdb

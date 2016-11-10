@@ -1,0 +1,5 @@
+c:\users\pavel\documents\visual studio 2015\Projects\HWCommonTypeSystem\05.64BitArray\bin\Debug\05.64BitArray.exe.config
+c:\users\pavel\documents\visual studio 2015\Projects\HWCommonTypeSystem\05.64BitArray\bin\Debug\05.64BitArray.exe
+c:\users\pavel\documents\visual studio 2015\Projects\HWCommonTypeSystem\05.64BitArray\bin\Debug\05.64BitArray.pdb
+c:\users\pavel\documents\visual studio 2015\Projects\HWCommonTypeSystem\05.64BitArray\obj\Debug\05.64BitArray.exe
+c:\users\pavel\documents\visual studio 2015\Projects\HWCommonTypeSystem\05.64BitArray\obj\Debug\05.64BitArray.pdb

@@ -1,0 +1,2 @@
+C:\Users\Pavel\Desktop\New folder\FurnitureManufacturer\bin\Debug\Furnitures.exe.config
+C:\Users\Pavel\Desktop\Furniture\FurnitureManufacturer\bin\Debug\Furnitures.exe.config

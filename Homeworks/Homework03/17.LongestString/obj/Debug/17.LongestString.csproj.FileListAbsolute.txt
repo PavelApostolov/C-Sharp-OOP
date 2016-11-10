@@ -1,0 +1,5 @@
+C:\Users\Pavel\documents\visual studio 2015\Projects\Homework03\17.LongestString\bin\Debug\17.LongestString.exe.config
+C:\Users\Pavel\documents\visual studio 2015\Projects\Homework03\17.LongestString\bin\Debug\17.LongestString.exe
+C:\Users\Pavel\documents\visual studio 2015\Projects\Homework03\17.LongestString\bin\Debug\17.LongestString.pdb
+C:\Users\Pavel\documents\visual studio 2015\Projects\Homework03\17.LongestString\obj\Debug\17.LongestString.exe
+C:\Users\Pavel\documents\visual studio 2015\Projects\Homework03\17.LongestString\obj\Debug\17.LongestString.pdb

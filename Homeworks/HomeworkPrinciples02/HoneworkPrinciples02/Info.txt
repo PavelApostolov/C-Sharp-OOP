@@ -1,0 +1,2 @@
+This is the first task 01.Shapes
+The file for starting the whole soluion is outside this folder

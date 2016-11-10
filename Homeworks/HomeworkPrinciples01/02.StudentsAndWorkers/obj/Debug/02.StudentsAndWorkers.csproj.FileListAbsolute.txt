@@ -1,0 +1,6 @@
+C:\Users\Pavel\Documents\Visual Studio 2015\Projects\HomeworkPrinciples01\02.StudentsAndWorkers\bin\Debug\02.StudentsAndWorkers.exe.config
+C:\Users\Pavel\Documents\Visual Studio 2015\Projects\HomeworkPrinciples01\02.StudentsAndWorkers\bin\Debug\02.StudentsAndWorkers.exe
+C:\Users\Pavel\Documents\Visual Studio 2015\Projects\HomeworkPrinciples01\02.StudentsAndWorkers\bin\Debug\02.StudentsAndWorkers.pdb
+C:\Users\Pavel\Documents\Visual Studio 2015\Projects\HomeworkPrinciples01\02.StudentsAndWorkers\obj\Debug\02.StudentsAndWorkers.csprojResolveAssemblyReference.cache
+C:\Users\Pavel\Documents\Visual Studio 2015\Projects\HomeworkPrinciples01\02.StudentsAndWorkers\obj\Debug\02.StudentsAndWorkers.exe
+C:\Users\Pavel\Documents\Visual Studio 2015\Projects\HomeworkPrinciples01\02.StudentsAndWorkers\obj\Debug\02.StudentsAndWorkers.pdb

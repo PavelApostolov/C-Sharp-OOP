@@ -1,0 +1,6 @@
+C:\Users\Pavel\Documents\Visual Studio 2015\Projects\HomeworkPrinciples01\03.AnimalHierarchy\bin\Debug\03.AnimalHierarchy.exe.config
+C:\Users\Pavel\Documents\Visual Studio 2015\Projects\HomeworkPrinciples01\03.AnimalHierarchy\bin\Debug\03.AnimalHierarchy.exe
+C:\Users\Pavel\Documents\Visual Studio 2015\Projects\HomeworkPrinciples01\03.AnimalHierarchy\bin\Debug\03.AnimalHierarchy.pdb
+C:\Users\Pavel\Documents\Visual Studio 2015\Projects\HomeworkPrinciples01\03.AnimalHierarchy\obj\Debug\03.AnimalHierarchy.csprojResolveAssemblyReference.cache
+C:\Users\Pavel\Documents\Visual Studio 2015\Projects\HomeworkPrinciples01\03.AnimalHierarchy\obj\Debug\03.AnimalHierarchy.exe
+C:\Users\Pavel\Documents\Visual Studio 2015\Projects\HomeworkPrinciples01\03.AnimalHierarchy\obj\Debug\03.AnimalHierarchy.pdb

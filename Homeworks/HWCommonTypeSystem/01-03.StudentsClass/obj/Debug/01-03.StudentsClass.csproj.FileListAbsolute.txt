@@ -1,0 +1,1 @@
+c:\users\pavel\documents\visual studio 2015\Projects\HWCommonTypeSystem\01-03.StudentsClass\bin\Debug\01-03.StudentsClass.exe.config

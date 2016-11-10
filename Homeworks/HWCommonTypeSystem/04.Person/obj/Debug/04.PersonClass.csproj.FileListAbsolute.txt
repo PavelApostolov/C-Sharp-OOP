@@ -1,0 +1,5 @@
+c:\users\pavel\documents\visual studio 2015\Projects\HWCommonTypeSystem\04.Person\bin\Debug\04.Person.exe.config
+c:\users\pavel\documents\visual studio 2015\Projects\HWCommonTypeSystem\04.Person\bin\Debug\04.Person.exe
+c:\users\pavel\documents\visual studio 2015\Projects\HWCommonTypeSystem\04.Person\bin\Debug\04.Person.pdb
+c:\users\pavel\documents\visual studio 2015\Projects\HWCommonTypeSystem\04.Person\obj\Debug\04.Person.exe
+c:\users\pavel\documents\visual studio 2015\Projects\HWCommonTypeSystem\04.Person\obj\Debug\04.Person.pdb
